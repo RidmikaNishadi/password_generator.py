@@ -5,7 +5,7 @@ Features
 - Uses letters, numbers, and symbols
 - Every password is unique
 
-The program uses Python's `random` module to select random characters from a pool of:
+The program uses Python's random module to select random characters from a pool of:
 - Uppercase letters
 - Lowercase letters
 - Numbers
