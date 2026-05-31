@@ -18,6 +18,7 @@ How to run
 2. Run the program:
 
 example output
+
 Enter password length: 12
 
 Generated password:
